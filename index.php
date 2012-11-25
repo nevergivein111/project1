@@ -1,4 +1,4 @@
-Hey its a mohsinnnnnnnnnnnnnnnnnnn 
+Hey its a mohsinnnnnnnnnnnnnnnnnnn okkkkkkk
 <?php
 
 // change the following paths if necessary
