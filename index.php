@@ -1,6 +1,6 @@
 fuck youuuuuuu okkkkkkk
 <?php
-nooooooooooooooooooooo
+obaamee
 
 okie dokie
 // change the following paths if necessary
